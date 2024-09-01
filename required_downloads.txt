@@ -1,0 +1,4 @@
+pip install youtube-transcript-api
+pip install pytube
+// Since pytube signing is broken (when last tested), you must download the video manually and place it in the video_snippets folder labelled "main.mp4"
+pip install moviepy
